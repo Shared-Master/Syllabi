@@ -2,7 +2,7 @@
 
 ## Essential Tasks
 
-The six essential tasks summarize the core of work in computer science and related fields. The specific activities and types of projects vary with course. 
+The six essential tasks summarize the core of work in computer science and related fields. The specific activities and types of projects vary with course. Most projects offer opportunities to demonstrate growith in several of the essential tasks. Formative assessments usually focus on one or two of the objectives that contribute to an essential task.
 
 ### AA: Applying abstractions and models
 
