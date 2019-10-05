@@ -2,17 +2,17 @@
 
 ## Essential Tasks
 
-### Applying abstractions and models
+### AA: Applying abstractions and models
 
-### Analyzing the effects of developments in computing
+### AE: Analyzing the effects of developments in computing
 
-### Analyzing their computational work and the work of others
+### AW: Analyzing their computational work and the work of others
 
-### Collaborating with peers on computing activities
+### CP: Collaborating with peers on computing activities
 
-### Communicating computational thought processes, procedures, and results to others
+### CR: Communicating computational thought processes, procedures, and results to others
 
-### Designing and implementing creative solutions and artifacts
+### DI: Designing and implementing creative solutions and artifacts
 
 ## Outcomes
 
