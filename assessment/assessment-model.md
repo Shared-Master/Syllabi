@@ -48,11 +48,18 @@ The six essential tasks summarize the core of work in computer science and relat
 * Using a revision control system to manage a code base
 * Breaking a task down into steps
 * Planning milestones
-* Knowing the development tools used in the domain (Unity, Visual Studio, Code Studio
+* Knowing the languages and development tools used in the domain (Unity, Visual Studio, Code Studio, C#, JavaScript, etc.).
 
 #### CS Principles
 
+* JavaScript
+
 #### Game Design & Programming
+
+* C#
+* Unity
+* Visual Studio or Rider
+* Git & GitHub
 
 ## Outcomes
 
