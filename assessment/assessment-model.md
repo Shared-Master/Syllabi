@@ -86,4 +86,8 @@ Computational thinking
 
 ## Rubrics
 
+|                    | 0           | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| :--                | :--         | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| General Descriptor | No Evidence |     | Attempting guided practice | Substantial work on guided practice, but incomplete | Completing guided practice | Recognizing opportunities for transfer | Solving similar problems | Applying to new problems | Solving new problems |
+
 ## Categories
