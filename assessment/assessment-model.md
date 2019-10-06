@@ -6,6 +6,8 @@ The six essential tasks summarize the core of work in computer science and relat
 
 ### AA: Applying abstractions and models
 
+Computational thinking
+
 #### CS Principles
 
 #### Game Design & Programming
@@ -43,6 +45,14 @@ The six essential tasks summarize the core of work in computer science and relat
 
 ### CR: Communicating computational thought processes, procedures, and results to others
 
+* Computational Thinking
+  - Knowing the elements of algorithms (sequencing, branching, iteration)
+  - Knowing the properties of an algorithm
+    - Completion / finite execution time
+    - Correctness
+    - Definite - unambiguous statement, defined inputs and outputs
+* Vocabulary
+
 #### CS Principles
 
 #### Game Design & Programming
@@ -53,10 +63,13 @@ The six essential tasks summarize the core of work in computer science and relat
   - Educational Technology: ET.4.ID.a - Design Process
   - Educational Technology: ET.4.ID.c - Prototypes
 * Using a revision control system to manage a code base
+  - WA CS Learning Standards: 3B-AP-20
 * Breaking a task down into steps
   - Educational Technology: ET.5.CT.c - Problem Decomposition
 * Identifying a MVP
 * Knowing the languages and development tools used in the domain (Unity, Visual Studio, Code Studio, C#, JavaScript, etc.).
+  - WA CS Learning Standards: 3B-AP-20
+* Working with algorithms:
 
 #### CS Principles
 
