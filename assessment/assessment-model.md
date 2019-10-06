@@ -88,4 +88,6 @@ Computational thinking
 
 [Generic Rubric Descriptors](https://docs.google.com/spreadsheets/d/1B_XH8y4SVR3iqoKCU21Bgjpm5uAQBamGSd2qYQWkTRM/edit?usp=sharing)
 
+<iframe src="https://docs.google.com/spreadsheets/d/1B_XH8y4SVR3iqoKCU21Bgjpm5uAQBamGSd2qYQWkTRM/edit?usp=sharing" width="100%">
+
 ## Categories
