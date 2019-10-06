@@ -31,6 +31,9 @@ The six essential tasks summarize the core of work in computer science and relat
 * Using collaboration tools to facilitate a group project:
   - Google Docs
   - GitHub
+* Dividing up work so that each member of the team has a defined contribution that can be accomplished with minimal dependance on others.
+  - Knowing what you are responsible for
+* Communicating about progress and challenges.
 
 #### CS Principles
 
