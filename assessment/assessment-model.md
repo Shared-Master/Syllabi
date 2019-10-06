@@ -45,9 +45,12 @@ The six essential tasks summarize the core of work in computer science and relat
 ### DI: Designing and implementing creative solutions and artifacts
 
 * Using an iterative design process
+  - Educational Technology: ET.4.ID.a - Design Process
+  - Educational Technology: ET.4.ID.c - Prototypes
 * Using a revision control system to manage a code base
 * Breaking a task down into steps
-* Planning milestones
+  - Educational Technology: ET.5.CT.c - Problem Decomposition
+* Identifying a MVP
 * Knowing the languages and development tools used in the domain (Unity, Visual Studio, Code Studio, C#, JavaScript, etc.).
 
 #### CS Principles
