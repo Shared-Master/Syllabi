@@ -35,6 +35,7 @@ The six essential tasks summarize the core of work in computer science and relat
   - Dividing up work and documenting responsibilities, so that each member of the team has a defined contribution that can be accomplished with minimal dependance on others.
   - Knowing what you are responsible for
   - Communicating about progress and challenges.
+* Critiquing group process
 
 #### CS Principles
 
