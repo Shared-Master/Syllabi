@@ -44,6 +44,12 @@ The six essential tasks summarize the core of work in computer science and relat
 
 ### DI: Designing and implementing creative solutions and artifacts
 
+* Using an iterative design process
+* Using a revision control system to manage a code base
+* Breaking a task down into steps
+* Planning milestones
+* Knowing the development tools used in the domain (Unity, Visual Studio, Code Studio
+
 #### CS Principles
 
 #### Game Design & Programming
