@@ -28,6 +28,10 @@ The six essential tasks summarize the core of work in computer science and relat
 
 ### CP: Collaborating with peers on computing activities
 
+* Using collaboration tools to facilitate a group project:
+  - Google Docs
+  - GitHub
+
 #### CS Principles
 
 #### Game Design & Programming
