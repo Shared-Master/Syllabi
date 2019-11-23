@@ -1,5 +1,25 @@
 # Essential Tasks, Outcomes, and Rubrics
 
+## Assessment vs, Grading
+
+**Formative Assessment:** taking stock of how the unit/lesson *is going* - what are the students learning, who is getting it, who is not, how is the pacing, etc.
+
+**Summative Assessment:** taking stock of how the unit *went*.
+
+**Grading:** assigning a level of mastery to each student's work on a task/lesson/unit. Grading is required to fit into a set of external constraints. It translates the results of assessments into "reportcardese."
+
+| Grade | Meaning |
+| ----- | ------- |
+| A     |
+| B     | 
+| C     | Able to accurately follow procedures and understands essential terminology & concepts
+| D     | 
+| F     | The available evidence is inadequate to form a judgement of what the student understands & can do |
+
+## What I Grade
+
+## Why I Grade It
+
 ## Essential Tasks
 
 The six essential tasks summarize the core of work in computer science and related fields. The specific activities and types of projects vary with course. Most projects offer opportunities to demonstrate growith in several of the essential tasks. Formative assessments usually focus on one or two of the objectives that contribute to an essential task.
