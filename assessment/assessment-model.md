@@ -2,6 +2,8 @@
 
 ## Assessment vs, Grading
 
+>Compare pedagogical models of Code.org CS Principles & CS Discoveries, Unity Create With Code, TestOut.
+
 **Formative Assessment:** taking stock of how the unit/lesson *is going* - what are the students learning, who is getting it, who is not, how is the pacing, etc.
 
 **Summative Assessment:** taking stock of how the unit *went*.
