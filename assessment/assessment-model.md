@@ -9,12 +9,12 @@
 **Grading:** assigning a level of mastery to each student's work on a task/lesson/unit. Grading is required to fit into a set of external constraints. It translates the results of assessments into "reportcardese."
 
 | Grade | Meaning |
-| ----- | ------- |
-| A     |
-| B     | 
+| :---: | ------- |
+| A     | Near mastery of terms & concepts; able to transfer skills and understandings to **new** problems. |
+| B     | Substantial, but incomplete, mastery of terms & concepts; able to transfer skills and understandings to **similar** problems. |
 | C     | Able to accurately follow procedures and understands essential terminology & concepts
 | D     | 
-| F     | The available evidence is inadequate to form a judgement of what the student understands & can do |
+| F     | The available evidence is inadequate to form a judgement of what the student understands & can do. |
 
 ## What I Grade
 
